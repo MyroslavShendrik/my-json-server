@@ -559,13 +559,6 @@
         "/webstudio-vite-js/images/symboldefs.svg#facebook",
         "/webstudio-vite-js/images/symboldefs.svg#linkedin"
       ]
-    },
-    {
-      "name": "Myroslav",
-      "position": "Shendryk",
-      "images": {
-        "default": "/webstudio-vite-js/images/olga-mobile-1x.jpg"
-      }
     }
   ]
 }

@@ -1425,6 +1425,12 @@
       "title": "131313",
       "body": "131313",
       "id": "UN3aMgO1r34"
+    },
+    {
+      "userId": 3,
+      "title": "santa maria",
+      "body": "fedafh grgre fvwegwgw",
+      "id": "k7qeZnO4wiE"
     }
   ],
   "$schema": "./node_modules/json-server/schema.json"

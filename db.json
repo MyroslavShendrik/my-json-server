@@ -1433,5 +1433,20 @@
       "id": "k7qeZnO4wiE"
     }
   ],
-  "$schema": "./node_modules/json-server/schema.json"
+  "starWars":{
+    "page1":{
+      "header":{
+        "headerTitle":"Star Wars Fan Hub",
+        "headerMenu":["Про сайт","Всесвіт","Сила","Джедаї і Сітхи","Війни","Енциклопедія","Магазин"]
+      },
+      "about":{},
+      "univers":{},
+      "force":{},
+      "jedi":{},
+      "wars":{},
+      "footer":{}
+    },
+    "page2":{},
+    "page3":{}
+  }
 }

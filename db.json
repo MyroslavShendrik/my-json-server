@@ -816,9 +816,9 @@
   "posts": [
     {
       "userId": 1,
-      "id": "1",
-      "title": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
-      "body": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto"
+      "title": "іunt aut facere repellat provident occaecati excepturi optio reprehenderit",
+      "body": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto",
+      "id": "1"
     },
     {
       "userId": 1,
@@ -1409,12 +1409,6 @@
       "body": "quo deleniti praesentium dicta non quod\naut est molestias\nmolestias et officia quis nihil\nitaque dolorem quia"
     },
     {
-      "userId": 10,
-      "id": "100",
-      "title": "at nam consequatur ea labore ea harum",
-      "body": "cupiditate quo est a modi nesciunt soluta\nipsa voluptas error itaque dicta in\nautem qui minus magnam et distinctio eum\naccusamus ratione error aut"
-    },
-    {
       "name": "Albert",
       "address": "Kyiv",
       "phone": "11111111",
@@ -1433,20 +1427,29 @@
       "id": "k7qeZnO4wiE"
     }
   ],
-  "starWars":{
-    "page1":{
-      "header":{
-        "headerTitle":"Star Wars Fan Hub",
-        "headerMenu":["Про сайт","Всесвіт","Сила","Джедаї і Сітхи","Війни","Енциклопедія","Магазин"]
+  "starWars": {
+    "page1": {
+      "header": {
+        "headerTitle": "Star Wars Fan Hub",
+        "headerMenu": [
+          "Про сайт",
+          "Всесвіт",
+          "Сила",
+          "Джедаї і Сітхи",
+          "Війни",
+          "Енциклопедія",
+          "Магазин"
+        ]
       },
-      "about":{},
-      "univers":{},
-      "force":{},
-      "jedi":{},
-      "wars":{},
-      "footer":{}
+      "about": {},
+      "univers": {},
+      "force": {},
+      "jedi": {},
+      "wars": {},
+      "footer": {}
     },
-    "page2":{},
-    "page3":{}
-  }
+    "page2": {},
+    "page3": {}
+  },
+  "$schema": "./node_modules/json-server/schema.json"
 }

@@ -5,27 +5,27 @@
       "position": "Product Designer",
       "images": {
         "desktop": [
-          "/webstudio-vite-js/images/igor-desktop-1x.jpg 1x,",
-          "/webstudio-vite-js/images/igor-desktop-2x.jpg 2x,",
-          "/webstudio-vite-js/images/igor-desktop-3x.jpg 3x"
+          "images/igor-desktop-1x.jpg 1x,",
+          "images/igor-desktop-2x.jpg 2x,",
+          "images/igor-desktop-3x.jpg 3x"
         ],
         "tablet": [
-          "/webstudio-vite-js/images/igor-tablet-1x.jpg 1x,",
-          "/webstudio-vite-js/images/igor-tablet-2x.jpg 2x,",
-          "/webstudio-vite-js/images/igor-tablet-3x.jpg 3x"
+          "images/igor-tablet-1x.jpg 1x,",
+          "images/igor-tablet-2x.jpg 2x,",
+          "images/igor-tablet-3x.jpg 3x"
         ],
         "mobile": [
-          "/webstudio-vite-js/images/igor-mobile-1x.jpg 1x,",
-          "/webstudio-vite-js/images/igor-mobile-2x.jpg 2x,",
-          "/webstudio-vite-js/images/igor-mobile-3x.jpg 3x"
+          "images/igor-mobile-1x.jpg 1x,",
+          "images/igor-mobile-2x.jpg 2x,",
+          "images/igor-mobile-3x.jpg 3x"
         ],
-        "default": "/webstudio-vite-js/images/igor-mobile-1x.jpg"
+        "default": "images/igor-mobile-1x.jpg"
       },
       "icons": [
-        "/webstudio-vite-js/images/symboldefs.svg#instagram",
-        "/webstudio-vite-js/images/symboldefs.svg#twitter",
-        "/webstudio-vite-js/images/symboldefs.svg#facebook",
-        "/webstudio-vite-js/images/symboldefs.svg#linkedin"
+        "images/symboldefs.svg#instagram",
+        "images/symboldefs.svg#twitter",
+        "images/symboldefs.svg#facebook",
+        "images/symboldefs.svg#linkedin"
       ],
       "id": "e1HcKxtHAvU"
     },
@@ -34,27 +34,27 @@
       "position": "Frontend Developer",
       "images": {
         "desktop": [
-          "/webstudio-vite-js/images/olga-desktop-1x.jpg 1x,",
-          "/webstudio-vite-js/images/olga-desktop-2x.jpg 2x,",
-          "/webstudio-vite-js/images/olga-desktop-3x.jpg 3x"
+          "images/olga-desktop-1x.jpg 1x,",
+          "images/olga-desktop-2x.jpg 2x,",
+          "images/olga-desktop-3x.jpg 3x"
         ],
         "tablet": [
-          "/webstudio-vite-js/images/olga-tablet-1x.jpg 1x,",
-          "/webstudio-vite-js/images/olga-tablet-2x.jpg 2x,",
-          "/webstudio-vite-js/images/olga-tablet-3x.jpg 3x"
+          "images/olga-tablet-1x.jpg 1x,",
+          "images/olga-tablet-2x.jpg 2x,",
+          "images/olga-tablet-3x.jpg 3x"
         ],
         "mobile": [
-          "/webstudio-vite-js/images/olga-mobile-1x.jpg 1x,",
-          "/webstudio-vite-js/images/olga-mobile-2x.jpg 2x,",
-          "/webstudio-vite-js/images/olga-mobile-3x.jpg 3x"
+          "images/olga-mobile-1x.jpg 1x,",
+          "images/olga-mobile-2x.jpg 2x,",
+          "images/olga-mobile-3x.jpg 3x"
         ],
-        "default": "/webstudio-vite-js/images/olga-mobile-1x.jpg"
+        "default": "images/olga-mobile-1x.jpg"
       },
       "icons": [
-        "/webstudio-vite-js/images/symboldefs.svg#instagram",
-        "/webstudio-vite-js/images/symboldefs.svg#twitter",
-        "/webstudio-vite-js/images/symboldefs.svg#facebook",
-        "/webstudio-vite-js/images/symboldefs.svg#linkedin"
+        "images/symboldefs.svg#instagram",
+        "images/symboldefs.svg#twitter",
+        "images/symboldefs.svg#facebook",
+        "images/symboldefs.svg#linkedin"
       ],
       "id": "QIESeH6ycW0"
     },
@@ -63,27 +63,27 @@
       "position": "Marketing",
       "images": {
         "desktop": [
-          "/webstudio-vite-js/images/mykola-desktop-1x.jpg 1x,",
-          "/webstudio-vite-js/images/mykola-desktop-2x.jpg 2x,",
-          "/webstudio-vite-js/images/mykola-desktop-3x.jpg 3x"
+          "images/mykola-desktop-1x.jpg 1x,",
+          "images/mykola-desktop-2x.jpg 2x,",
+          "images/mykola-desktop-3x.jpg 3x"
         ],
         "tablet": [
-          "/webstudio-vite-js/images/mykola-tablet-1x.jpg 1x,",
-          "/webstudio-vite-js/images/mykola-tablet-2x.jpg 2x,",
-          "/webstudio-vite-js/images/mykola-tablet-3x.jpg 3x"
+          "images/mykola-tablet-1x.jpg 1x,",
+          "images/mykola-tablet-2x.jpg 2x,",
+          "images/mykola-tablet-3x.jpg 3x"
         ],
         "mobile": [
-          "/webstudio-vite-js/images/mykola-mobile-1x.jpg 1x,",
-          "/webstudio-vite-js/images/mykola-mobile-2x.jpg 2x,",
-          "/webstudio-vite-js/images/mykola-mobile-3x.jpg 3x"
+          "images/mykola-mobile-1x.jpg 1x,",
+          "images/mykola-mobile-2x.jpg 2x,",
+          "images/mykola-mobile-3x.jpg 3x"
         ],
-        "default": "/webstudio-vite-js/images/mykola-mobile-1x.jpg"
+        "default": "images/mykola-mobile-1x.jpg"
       },
       "icons": [
-        "/webstudio-vite-js/images/symboldefs.svg#instagram",
-        "/webstudio-vite-js/images/symboldefs.svg#twitter",
-        "/webstudio-vite-js/images/symboldefs.svg#facebook",
-        "/webstudio-vite-js/images/symboldefs.svg#linkedin"
+        "images/symboldefs.svg#instagram",
+        "images/symboldefs.svg#twitter",
+        "images/symboldefs.svg#facebook",
+        "images/symboldefs.svg#linkedin"
       ],
       "id": "CBGSdLH9k9w"
     },
@@ -92,27 +92,27 @@
       "position": "UI Designer",
       "images": {
         "desktop": [
-          "/webstudio-vite-js/images/muhailo-desktop-1x.jpg 1x,",
-          "/webstudio-vite-js/images/muhailo-desktop-2x.jpg 2x,",
-          "/webstudio-vite-js/images/muhailo-desktop-3x.jpg 3x"
+          "images/muhailo-desktop-1x.jpg 1x,",
+          "images/muhailo-desktop-2x.jpg 2x,",
+          "images/muhailo-desktop-3x.jpg 3x"
         ],
         "tablet": [
-          "/webstudio-vite-js/images/muhailo-tablet-1x.jpg 1x,",
-          "/webstudio-vite-js/images/muhailo-tablet-2x.jpg 2x,",
-          "/webstudio-vite-js/images/muhailo-tablet-3x.jpg 3x"
+          "images/muhailo-tablet-1x.jpg 1x,",
+          "images/muhailo-tablet-2x.jpg 2x,",
+          "images/muhailo-tablet-3x.jpg 3x"
         ],
         "mobile": [
-          "/webstudio-vite-js/images/muhailo-mobile-1x.jpg 1x,",
-          "/webstudio-vite-js/images/muhailo-mobile-2x.jpg 2x,",
-          "/webstudio-vite-js/images/muhailo-mobile-3x.jpg 3x"
+          "images/muhailo-mobile-1x.jpg 1x,",
+          "images/muhailo-mobile-2x.jpg 2x,",
+          "images/muhailo-mobile-3x.jpg 3x"
         ],
-        "default": "/webstudio-vite-js/images/muhailo-mobile-1x.jpg"
+        "default": "images/muhailo-mobile-1x.jpg"
       },
       "icons": [
-        "/webstudio-vite-js/images/symboldefs.svg#instagram",
-        "/webstudio-vite-js/images/symboldefs.svg#twitter",
-        "/webstudio-vite-js/images/symboldefs.svg#facebook",
-        "/webstudio-vite-js/images/symboldefs.svg#linkedin"
+        "images/symboldefs.svg#instagram",
+        "images/symboldefs.svg#twitter",
+        "images/symboldefs.svg#facebook",
+        "images/symboldefs.svg#linkedin"
       ],
       "id": "eZsKIG5II68"
     },
@@ -121,27 +121,27 @@
       "position": "Product Designer-2",
       "images": {
         "desktop": [
-          "/webstudio-vite-js/images/igor2-desktop-1x.jpg 1x,",
-          "/webstudio-vite-js/images/igor2-desktop-2x.jpg 2x,",
-          "/webstudio-vite-js/images/igor2-desktop-3x.jpg 3x"
+          "images/igor2-desktop-1x.jpg 1x,",
+          "images/igor2-desktop-2x.jpg 2x,",
+          "images/igor2-desktop-3x.jpg 3x"
         ],
         "tablet": [
-          "/webstudio-vite-js/images/igor2-tablet-1x.jpg 1x,",
-          "/webstudio-vite-js/images/igor2-tablet-2x.jpg 2x,",
-          "/webstudio-vite-js/images/igor2-tablet-3x.jpg 3x"
+          "images/igor2-tablet-1x.jpg 1x,",
+          "images/igor2-tablet-2x.jpg 2x,",
+          "images/igor2-tablet-3x.jpg 3x"
         ],
         "mobile": [
-          "/webstudio-vite-js/images/igor2-mobile-1x.jpg 1x,",
-          "/webstudio-vite-js/images/igor2-mobile-2x.jpg 2x,",
-          "/webstudio-vite-js/images/igor2-mobile-3x.jpg 3x"
+          "images/igor2-mobile-1x.jpg 1x,",
+          "images/igor2-mobile-2x.jpg 2x,",
+          "images/igor2-mobile-3x.jpg 3x"
         ],
-        "default": "/webstudio-vite-js/images/igor2-mobile-1x.jpg"
+        "default": "images/igor2-mobile-1x.jpg"
       },
       "icons": [
-        "/webstudio-vite-js/images/symboldefs.svg#instagram",
-        "/webstudio-vite-js/images/symboldefs.svg#twitter",
-        "/webstudio-vite-js/images/symboldefs.svg#facebook",
-        "/webstudio-vite-js/images/symboldefs.svg#linkedin"
+        "images/symboldefs.svg#instagram",
+        "images/symboldefs.svg#twitter",
+        "images/symboldefs.svg#facebook",
+        "images/symboldefs.svg#linkedin"
       ],
       "id": "Ioqu4tgNBL4"
     },
@@ -150,27 +150,27 @@
       "position": "Frontend Developer-2",
       "images": {
         "desktop": [
-          "/webstudio-vite-js/images/olga2-desktop-1x.jpg 1x,",
-          "/webstudio-vite-js/images/olga2-desktop-2x.jpg 2x,",
-          "/webstudio-vite-js/images/olga2-desktop-3x.jpg 3x"
+          "images/olga2-desktop-1x.jpg 1x,",
+          "images/olga2-desktop-2x.jpg 2x,",
+          "images/olga2-desktop-3x.jpg 3x"
         ],
         "tablet": [
-          "/webstudio-vite-js/images/olga2-tablet-1x.jpg 1x,",
-          "/webstudio-vite-js/images/olga2-tablet-2x.jpg 2x,",
-          "/webstudio-vite-js/images/olga2-tablet-3x.jpg 3x"
+          "images/olga2-tablet-1x.jpg 1x,",
+          "images/olga2-tablet-2x.jpg 2x,",
+          "images/olga2-tablet-3x.jpg 3x"
         ],
         "mobile": [
-          "/webstudio-vite-js/images/olga2-mobile-1x.jpg 1x,",
-          "/webstudio-vite-js/images/olga2-mobile-2x.jpg 2x,",
-          "/webstudio-vite-js/images/olga2-mobile-3x.jpg 3x"
+          "images/olga2-mobile-1x.jpg 1x,",
+          "images/olga2-mobile-2x.jpg 2x,",
+          "images/olga2-mobile-3x.jpg 3x"
         ],
-        "default": "/webstudio-vite-js/images/olga2-mobile-1x.jpg"
+        "default": "images/olga2-mobile-1x.jpg"
       },
       "icons": [
-        "/webstudio-vite-js/images/symboldefs.svg#instagram",
-        "/webstudio-vite-js/images/symboldefs.svg#twitter",
-        "/webstudio-vite-js/images/symboldefs.svg#facebook",
-        "/webstudio-vite-js/images/symboldefs.svg#linkedin"
+        "images/symboldefs.svg#instagram",
+        "images/symboldefs.svg#twitter",
+        "images/symboldefs.svg#facebook",
+        "images/symboldefs.svg#linkedin"
       ],
       "id": "5qwKXH8pEM8"
     },
@@ -179,27 +179,27 @@
       "position": "Marketing-2",
       "images": {
         "desktop": [
-          "/webstudio-vite-js/images/mykola2-desktop-1x.jpg 1x,",
-          "/webstudio-vite-js/images/mykola2-desktop-2x.jpg 2x,",
-          "/webstudio-vite-js/images/mykola2-desktop-3x.jpg 3x"
+          "images/mykola2-desktop-1x.jpg 1x,",
+          "images/mykola2-desktop-2x.jpg 2x,",
+          "images/mykola2-desktop-3x.jpg 3x"
         ],
         "tablet": [
-          "/webstudio-vite-js/images/mykola2-tablet-1x.jpg 1x,",
-          "/webstudio-vite-js/images/mykola2-tablet-2x.jpg 2x,",
-          "/webstudio-vite-js/images/mykola2-tablet-3x.jpg 3x"
+          "images/mykola2-tablet-1x.jpg 1x,",
+          "images/mykola2-tablet-2x.jpg 2x,",
+          "images/mykola2-tablet-3x.jpg 3x"
         ],
         "mobile": [
-          "/webstudio-vite-js/images/mykola2-mobile-1x.jpg 1x,",
-          "/webstudio-vite-js/images/mykola2-mobile-2x.jpg 2x,",
-          "/webstudio-vite-js/images/mykola2-mobile-3x.jpg 3x"
+          "images/mykola2-mobile-1x.jpg 1x,",
+          "images/mykola2-mobile-2x.jpg 2x,",
+          "images/mykola2-mobile-3x.jpg 3x"
         ],
-        "default": "/webstudio-vite-js/images/mykola2-mobile-1x.jpg"
+        "default": "images/mykola2-mobile-1x.jpg"
       },
       "icons": [
-        "/webstudio-vite-js/images/symboldefs.svg#instagram",
-        "/webstudio-vite-js/images/symboldefs.svg#twitter",
-        "/webstudio-vite-js/images/symboldefs.svg#facebook",
-        "/webstudio-vite-js/images/symboldefs.svg#linkedin"
+        "images/symboldefs.svg#instagram",
+        "images/symboldefs.svg#twitter",
+        "images/symboldefs.svg#facebook",
+        "images/symboldefs.svg#linkedin"
       ],
       "id": "-UNShhyKhJY"
     },
@@ -208,27 +208,27 @@
       "position": "UI Designer-2",
       "images": {
         "desktop": [
-          "/webstudio-vite-js/images/muhailo2-desktop-1x.jpg 1x,",
-          "/webstudio-vite-js/images/muhailo2-desktop-2x.jpg 2x,",
-          "/webstudio-vite-js/images/muhailo2-desktop-3x.jpg 3x"
+          "images/muhailo2-desktop-1x.jpg 1x,",
+          "images/muhailo2-desktop-2x.jpg 2x,",
+          "images/muhailo2-desktop-3x.jpg 3x"
         ],
         "tablet": [
-          "/webstudio-vite-js/images/muhailo2-tablet-1x.jpg 1x,",
-          "/webstudio-vite-js/images/muhailo2-tablet-2x.jpg 2x,",
-          "/webstudio-vite-js/images/muhailo2-tablet-3x.jpg 3x"
+          "images/muhailo2-tablet-1x.jpg 1x,",
+          "images/muhailo2-tablet-2x.jpg 2x,",
+          "images/muhailo2-tablet-3x.jpg 3x"
         ],
         "mobile": [
-          "/webstudio-vite-js/images/muhailo2-mobile-1x.jpg 1x,",
-          "/webstudio-vite-js/images/muhailo2-mobile-2x.jpg 2x,",
-          "/webstudio-vite-js/images/muhailo2-mobile-3x.jpg 3x"
+          "images/muhailo2-mobile-1x.jpg 1x,",
+          "images/muhailo2-mobile-2x.jpg 2x,",
+          "images/muhailo2-mobile-3x.jpg 3x"
         ],
-        "default": "/webstudio-vite-js/images/muhailo2-mobile-1x.jpg"
+        "default": "images/muhailo2-mobile-1x.jpg"
       },
       "icons": [
-        "/webstudio-vite-js/images/symboldefs.svg#instagram",
-        "/webstudio-vite-js/images/symboldefs.svg#twitter",
-        "/webstudio-vite-js/images/symboldefs.svg#facebook",
-        "/webstudio-vite-js/images/symboldefs.svg#linkedin"
+        "images/symboldefs.svg#instagram",
+        "images/symboldefs.svg#twitter",
+        "images/symboldefs.svg#facebook",
+        "images/symboldefs.svg#linkedin"
       ],
       "id": "O_fk-SDWdxo"
     },
@@ -237,27 +237,27 @@
       "position": "Product Designer-3",
       "images": {
         "desktop": [
-          "/webstudio-vite-js/images/igor3-desktop-1x.jpg 1x,",
-          "/webstudio-vite-js/images/igor3-desktop-2x.jpg 2x,",
-          "/webstudio-vite-js/images/igor3-desktop-3x.jpg 3x"
+          "images/igor3-desktop-1x.jpg 1x,",
+          "images/igor3-desktop-2x.jpg 2x,",
+          "images/igor3-desktop-3x.jpg 3x"
         ],
         "tablet": [
-          "/webstudio-vite-js/images/igor3-tablet-1x.jpg 1x,",
-          "/webstudio-vite-js/images/igor3-tablet-2x.jpg 2x,",
-          "/webstudio-vite-js/images/igor3-tablet-3x.jpg 3x"
+          "images/igor3-tablet-1x.jpg 1x,",
+          "images/igor3-tablet-2x.jpg 2x,",
+          "images/igor3-tablet-3x.jpg 3x"
         ],
         "mobile": [
-          "/webstudio-vite-js/images/igor3-mobile-1x.jpg 1x,",
-          "/webstudio-vite-js/images/igor3-mobile-2x.jpg 2x,",
-          "/webstudio-vite-js/images/igor3-mobile-3x.jpg 3x"
+          "images/igor3-mobile-1x.jpg 1x,",
+          "images/igor3-mobile-2x.jpg 2x,",
+          "images/igor3-mobile-3x.jpg 3x"
         ],
-        "default": "/webstudio-vite-js/images/igor3-mobile-1x.jpg"
+        "default": "images/igor3-mobile-1x.jpg"
       },
       "icons": [
-        "/webstudio-vite-js/images/symboldefs.svg#instagram",
-        "/webstudio-vite-js/images/symboldefs.svg#twitter",
-        "/webstudio-vite-js/images/symboldefs.svg#facebook",
-        "/webstudio-vite-js/images/symboldefs.svg#linkedin"
+        "images/symboldefs.svg#instagram",
+        "images/symboldefs.svg#twitter",
+        "images/symboldefs.svg#facebook",
+        "images/symboldefs.svg#linkedin"
       ],
       "id": "UsBsubzTQzQ"
     },
@@ -266,27 +266,27 @@
       "position": "Frontend Developer-3",
       "images": {
         "desktop": [
-          "/webstudio-vite-js/images/olga3-desktop-1x.jpg 1x,",
-          "/webstudio-vite-js/images/olga3-desktop-2x.jpg 2x,",
-          "/webstudio-vite-js/images/olga3-desktop-3x.jpg 3x"
+          "images/olga3-desktop-1x.jpg 1x,",
+          "images/olga3-desktop-2x.jpg 2x,",
+          "images/olga3-desktop-3x.jpg 3x"
         ],
         "tablet": [
-          "/webstudio-vite-js/images/olga3-tablet-1x.jpg 1x,",
-          "/webstudio-vite-js/images/olga3-tablet-2x.jpg 2x,",
-          "/webstudio-vite-js/images/olga3-tablet-3x.jpg 3x"
+          "images/olga3-tablet-1x.jpg 1x,",
+          "images/olga3-tablet-2x.jpg 2x,",
+          "images/olga3-tablet-3x.jpg 3x"
         ],
         "mobile": [
-          "/webstudio-vite-js/images/olga3-mobile-1x.jpg 1x,",
-          "/webstudio-vite-js/images/olga3-mobile-2x.jpg 2x,",
-          "/webstudio-vite-js/images/olga3-mobile-3x.jpg 3x"
+          "images/olga3-mobile-1x.jpg 1x,",
+          "images/olga3-mobile-2x.jpg 2x,",
+          "images/olga3-mobile-3x.jpg 3x"
         ],
-        "default": "/webstudio-vite-js/images/olga3-mobile-1x.jpg"
+        "default": "images/olga3-mobile-1x.jpg"
       },
       "icons": [
-        "/webstudio-vite-js/images/symboldefs.svg#instagram",
-        "/webstudio-vite-js/images/symboldefs.svg#twitter",
-        "/webstudio-vite-js/images/symboldefs.svg#facebook",
-        "/webstudio-vite-js/images/symboldefs.svg#linkedin"
+        "images/symboldefs.svg#instagram",
+        "images/symboldefs.svg#twitter",
+        "images/symboldefs.svg#facebook",
+        "images/symboldefs.svg#linkedin"
       ],
       "id": "lPI2aVzK5Qk"
     },
@@ -295,27 +295,27 @@
       "position": "Marketing-3",
       "images": {
         "desktop": [
-          "/webstudio-vite-js/images/mykola3-desktop-1x.jpg 1x,",
-          "/webstudio-vite-js/images/mykola3-desktop-2x.jpg 2x,",
-          "/webstudio-vite-js/images/mykola3-desktop-3x.jpg 3x"
+          "images/mykola3-desktop-1x.jpg 1x,",
+          "images/mykola3-desktop-2x.jpg 2x,",
+          "images/mykola3-desktop-3x.jpg 3x"
         ],
         "tablet": [
-          "/webstudio-vite-js/images/mykola3-tablet-1x.jpg 1x,",
-          "/webstudio-vite-js/images/mykola3-tablet-2x.jpg 2x,",
-          "/webstudio-vite-js/images/mykola3-tablet-3x.jpg 3x"
+          "images/mykola3-tablet-1x.jpg 1x,",
+          "images/mykola3-tablet-2x.jpg 2x,",
+          "images/mykola3-tablet-3x.jpg 3x"
         ],
         "mobile": [
-          "/webstudio-vite-js/images/mykola3-mobile-1x.jpg 1x,",
-          "/webstudio-vite-js/images/mykola3-mobile-2x.jpg 2x,",
-          "/webstudio-vite-js/images/mykola3-mobile-3x.jpg 3x"
+          "images/mykola3-mobile-1x.jpg 1x,",
+          "images/mykola3-mobile-2x.jpg 2x,",
+          "images/mykola3-mobile-3x.jpg 3x"
         ],
-        "default": "/webstudio-vite-js/images/mykola3-mobile-1x.jpg"
+        "default": "images/mykola3-mobile-1x.jpg"
       },
       "icons": [
-        "/webstudio-vite-js/images/symboldefs.svg#instagram",
-        "/webstudio-vite-js/images/symboldefs.svg#twitter",
-        "/webstudio-vite-js/images/symboldefs.svg#facebook",
-        "/webstudio-vite-js/images/symboldefs.svg#linkedin"
+        "images/symboldefs.svg#instagram",
+        "images/symboldefs.svg#twitter",
+        "images/symboldefs.svg#facebook",
+        "images/symboldefs.svg#linkedin"
       ],
       "id": "vN9sEoP8B7A"
     },
@@ -324,27 +324,27 @@
       "position": "UI Designer-3",
       "images": {
         "desktop": [
-          "/webstudio-vite-js/images/muhailo3-desktop-1x.jpg 1x,",
-          "/webstudio-vite-js/images/muhailo3-desktop-2x.jpg 2x,",
-          "/webstudio-vite-js/images/muhailo3-desktop-3x.jpg 3x"
+          "images/muhailo3-desktop-1x.jpg 1x,",
+          "images/muhailo3-desktop-2x.jpg 2x,",
+          "images/muhailo3-desktop-3x.jpg 3x"
         ],
         "tablet": [
-          "/webstudio-vite-js/images/muhailo3-tablet-1x.jpg 1x,",
-          "/webstudio-vite-js/images/muhailo3-tablet-2x.jpg 2x,",
-          "/webstudio-vite-js/images/muhailo3-tablet-3x.jpg 3x"
+          "images/muhailo3-tablet-1x.jpg 1x,",
+          "images/muhailo3-tablet-2x.jpg 2x,",
+          "images/muhailo3-tablet-3x.jpg 3x"
         ],
         "mobile": [
-          "/webstudio-vite-js/images/muhailo3-mobile-1x.jpg 1x,",
-          "/webstudio-vite-js/images/muhailo3-mobile-2x.jpg 2x,",
-          "/webstudio-vite-js/images/muhailo3-mobile-3x.jpg 3x"
+          "images/muhailo3-mobile-1x.jpg 1x,",
+          "images/muhailo3-mobile-2x.jpg 2x,",
+          "images/muhailo3-mobile-3x.jpg 3x"
         ],
-        "default": "/webstudio-vite-js/images/muhailo3-mobile-1x.jpg"
+        "default": "images/muhailo3-mobile-1x.jpg"
       },
       "icons": [
-        "/webstudio-vite-js/images/symboldefs.svg#instagram",
-        "/webstudio-vite-js/images/symboldefs.svg#twitter",
-        "/webstudio-vite-js/images/symboldefs.svg#facebook",
-        "/webstudio-vite-js/images/symboldefs.svg#linkedin"
+        "images/symboldefs.svg#instagram",
+        "images/symboldefs.svg#twitter",
+        "images/symboldefs.svg#facebook",
+        "images/symboldefs.svg#linkedin"
       ],
       "id": "h3gR9mIvAto"
     },
@@ -353,27 +353,27 @@
       "position": "Product Designer-4",
       "images": {
         "desktop": [
-          "/webstudio-vite-js/images/igor4-desktop-1x.jpg 1x,",
-          "/webstudio-vite-js/images/igor4-desktop-2x.jpg 2x,",
-          "/webstudio-vite-js/images/igor4-desktop-3x.jpg 3x"
+          "images/igor4-desktop-1x.jpg 1x,",
+          "images/igor4-desktop-2x.jpg 2x,",
+          "images/igor4-desktop-3x.jpg 3x"
         ],
         "tablet": [
-          "/webstudio-vite-js/images/igor4-tablet-1x.jpg 1x,",
-          "/webstudio-vite-js/images/igor4-tablet-2x.jpg 2x,",
-          "/webstudio-vite-js/images/igor4-tablet-3x.jpg 3x"
+          "images/igor4-tablet-1x.jpg 1x,",
+          "images/igor4-tablet-2x.jpg 2x,",
+          "images/igor4-tablet-3x.jpg 3x"
         ],
         "mobile": [
-          "/webstudio-vite-js/images/igor4-mobile-1x.jpg 1x,",
-          "/webstudio-vite-js/images/igor4-mobile-2x.jpg 2x,",
-          "/webstudio-vite-js/images/igor4-mobile-3x.jpg 3x"
+          "images/igor4-mobile-1x.jpg 1x,",
+          "images/igor4-mobile-2x.jpg 2x,",
+          "images/igor4-mobile-3x.jpg 3x"
         ],
-        "default": "/webstudio-vite-js/images/igor4-mobile-1x.jpg"
+        "default": "images/igor4-mobile-1x.jpg"
       },
       "icons": [
-        "/webstudio-vite-js/images/symboldefs.svg#instagram",
-        "/webstudio-vite-js/images/symboldefs.svg#twitter",
-        "/webstudio-vite-js/images/symboldefs.svg#facebook",
-        "/webstudio-vite-js/images/symboldefs.svg#linkedin"
+        "images/symboldefs.svg#instagram",
+        "images/symboldefs.svg#twitter",
+        "images/symboldefs.svg#facebook",
+        "images/symboldefs.svg#linkedin"
       ],
       "id": "WsSGVZfEoB0"
     },
@@ -382,27 +382,27 @@
       "position": "Frontend Developer-4",
       "images": {
         "desktop": [
-          "/webstudio-vite-js/images/olga4-desktop-1x.jpg 1x,",
-          "/webstudio-vite-js/images/olga4-desktop-2x.jpg 2x,",
-          "/webstudio-vite-js/images/olga4-desktop-3x.jpg 3x"
+          "images/olga4-desktop-1x.jpg 1x,",
+          "images/olga4-desktop-2x.jpg 2x,",
+          "images/olga4-desktop-3x.jpg 3x"
         ],
         "tablet": [
-          "/webstudio-vite-js/images/olga4-tablet-1x.jpg 1x,",
-          "/webstudio-vite-js/images/olga4-tablet-2x.jpg 2x,",
-          "/webstudio-vite-js/images/olga4-tablet-3x.jpg 3x"
+          "images/olga4-tablet-1x.jpg 1x,",
+          "images/olga4-tablet-2x.jpg 2x,",
+          "images/olga4-tablet-3x.jpg 3x"
         ],
         "mobile": [
-          "/webstudio-vite-js/images/olga4-mobile-1x.jpg 1x,",
-          "/webstudio-vite-js/images/olga4-mobile-2x.jpg 2x,",
-          "/webstudio-vite-js/images/olga4-mobile-3x.jpg 3x"
+          "images/olga4-mobile-1x.jpg 1x,",
+          "images/olga4-mobile-2x.jpg 2x,",
+          "images/olga4-mobile-3x.jpg 3x"
         ],
-        "default": "/webstudio-vite-js/images/olga4-mobile-1x.jpg"
+        "default": "images/olga4-mobile-1x.jpg"
       },
       "icons": [
-        "/webstudio-vite-js/images/symboldefs.svg#instagram",
-        "/webstudio-vite-js/images/symboldefs.svg#twitter",
-        "/webstudio-vite-js/images/symboldefs.svg#facebook",
-        "/webstudio-vite-js/images/symboldefs.svg#linkedin"
+        "images/symboldefs.svg#instagram",
+        "images/symboldefs.svg#twitter",
+        "images/symboldefs.svg#facebook",
+        "images/symboldefs.svg#linkedin"
       ],
       "id": "iMDbTGCE4XE"
     },
@@ -411,27 +411,27 @@
       "position": "Marketing-4",
       "images": {
         "desktop": [
-          "/webstudio-vite-js/images/mykola4-desktop-1x.jpg 1x,",
-          "/webstudio-vite-js/images/mykola4-desktop-2x.jpg 2x,",
-          "/webstudio-vite-js/images/mykola4-desktop-3x.jpg 3x"
+          "images/mykola4-desktop-1x.jpg 1x,",
+          "images/mykola4-desktop-2x.jpg 2x,",
+          "images/mykola4-desktop-3x.jpg 3x"
         ],
         "tablet": [
-          "/webstudio-vite-js/images/mykola4-tablet-1x.jpg 1x,",
-          "/webstudio-vite-js/images/mykola4-tablet-2x.jpg 2x,",
-          "/webstudio-vite-js/images/mykola4-tablet-3x.jpg 3x"
+          "images/mykola4-tablet-1x.jpg 1x,",
+          "images/mykola4-tablet-2x.jpg 2x,",
+          "images/mykola4-tablet-3x.jpg 3x"
         ],
         "mobile": [
-          "/webstudio-vite-js/images/mykola4-mobile-1x.jpg 1x,",
-          "/webstudio-vite-js/images/mykola4-mobile-2x.jpg 2x,",
-          "/webstudio-vite-js/images/mykola4-mobile-3x.jpg 3x"
+          "images/mykola4-mobile-1x.jpg 1x,",
+          "images/mykola4-mobile-2x.jpg 2x,",
+          "images/mykola4-mobile-3x.jpg 3x"
         ],
-        "default": "/webstudio-vite-js/images/mykola4-mobile-1x.jpg"
+        "default": "images/mykola4-mobile-1x.jpg"
       },
       "icons": [
-        "/webstudio-vite-js/images/symboldefs.svg#instagram",
-        "/webstudio-vite-js/images/symboldefs.svg#twitter",
-        "/webstudio-vite-js/images/symboldefs.svg#facebook",
-        "/webstudio-vite-js/images/symboldefs.svg#linkedin"
+        "images/symboldefs.svg#instagram",
+        "images/symboldefs.svg#twitter",
+        "images/symboldefs.svg#facebook",
+        "images/symboldefs.svg#linkedin"
       ],
       "id": "7j_sJybWhUo"
     },
@@ -440,27 +440,27 @@
       "position": "UI Designer-4",
       "images": {
         "desktop": [
-          "/webstudio-vite-js/images/muhailo4-desktop-1x.jpg 1x,",
-          "/webstudio-vite-js/images/muhailo4-desktop-2x.jpg 2x,",
-          "/webstudio-vite-js/images/muhailo4-desktop-3x.jpg 3x"
+          "images/muhailo4-desktop-1x.jpg 1x,",
+          "images/muhailo4-desktop-2x.jpg 2x,",
+          "images/muhailo4-desktop-3x.jpg 3x"
         ],
         "tablet": [
-          "/webstudio-vite-js/images/muhailo4-tablet-1x.jpg 1x,",
-          "/webstudio-vite-js/images/muhailo4-tablet-2x.jpg 2x,",
-          "/webstudio-vite-js/images/muhailo4-tablet-3x.jpg 3x"
+          "images/muhailo4-tablet-1x.jpg 1x,",
+          "images/muhailo4-tablet-2x.jpg 2x,",
+          "images/muhailo4-tablet-3x.jpg 3x"
         ],
         "mobile": [
-          "/webstudio-vite-js/images/muhailo4-mobile-1x.jpg 1x,",
-          "/webstudio-vite-js/images/muhailo4-mobile-2x.jpg 2x,",
-          "/webstudio-vite-js/images/muhailo4-mobile-3x.jpg 3x"
+          "images/muhailo4-mobile-1x.jpg 1x,",
+          "images/muhailo4-mobile-2x.jpg 2x,",
+          "images/muhailo4-mobile-3x.jpg 3x"
         ],
-        "default": "/webstudio-vite-js/images/muhailo4-mobile-1x.jpg"
+        "default": "images/muhailo4-mobile-1x.jpg"
       },
       "icons": [
-        "/webstudio-vite-js/images/symboldefs.svg#instagram",
-        "/webstudio-vite-js/images/symboldefs.svg#twitter",
-        "/webstudio-vite-js/images/symboldefs.svg#facebook",
-        "/webstudio-vite-js/images/symboldefs.svg#linkedin"
+        "images/symboldefs.svg#instagram",
+        "images/symboldefs.svg#twitter",
+        "images/symboldefs.svg#facebook",
+        "images/symboldefs.svg#linkedin"
       ],
       "id": "dRMWCVZxY08"
     },
@@ -469,27 +469,27 @@
       "position": "Product Designer-5",
       "images": {
         "desktop": [
-          "/webstudio-vite-js/images/igor5-desktop-1x.jpg 1x,",
-          "/webstudio-vite-js/images/igor5-desktop-2x.jpg 2x,",
-          "/webstudio-vite-js/images/igor5-desktop-3x.jpg 3x"
+          "images/igor5-desktop-1x.jpg 1x,",
+          "images/igor5-desktop-2x.jpg 2x,",
+          "images/igor5-desktop-3x.jpg 3x"
         ],
         "tablet": [
-          "/webstudio-vite-js/images/igor5-tablet-1x.jpg 1x,",
-          "/webstudio-vite-js/images/igor5-tablet-2x.jpg 2x,",
-          "/webstudio-vite-js/images/igor5-tablet-3x.jpg 3x"
+          "images/igor5-tablet-1x.jpg 1x,",
+          "images/igor5-tablet-2x.jpg 2x,",
+          "images/igor5-tablet-3x.jpg 3x"
         ],
         "mobile": [
-          "/webstudio-vite-js/images/igor5-mobile-1x.jpg 1x,",
-          "/webstudio-vite-js/images/igor5-mobile-2x.jpg 2x,",
-          "/webstudio-vite-js/images/igor5-mobile-3x.jpg 3x"
+          "images/igor5-mobile-1x.jpg 1x,",
+          "images/igor5-mobile-2x.jpg 2x,",
+          "images/igor5-mobile-3x.jpg 3x"
         ],
-        "default": "/webstudio-vite-js/images/igor5-mobile-1x.jpg"
+        "default": "images/igor5-mobile-1x.jpg"
       },
       "icons": [
-        "/webstudio-vite-js/images/symboldefs.svg#instagram",
-        "/webstudio-vite-js/images/symboldefs.svg#twitter",
-        "/webstudio-vite-js/images/symboldefs.svg#facebook",
-        "/webstudio-vite-js/images/symboldefs.svg#linkedin"
+        "images/symboldefs.svg#instagram",
+        "images/symboldefs.svg#twitter",
+        "images/symboldefs.svg#facebook",
+        "images/symboldefs.svg#linkedin"
       ],
       "id": "t1wyUNP8PsU"
     },
@@ -498,27 +498,27 @@
       "position": "Frontend Developer-5",
       "images": {
         "desktop": [
-          "/webstudio-vite-js/images/olga5-desktop-1x.jpg 1x,",
-          "/webstudio-vite-js/images/olga5-desktop-2x.jpg 2x,",
-          "/webstudio-vite-js/images/olga5-desktop-3x.jpg 3x"
+          "images/olga5-desktop-1x.jpg 1x,",
+          "images/olga5-desktop-2x.jpg 2x,",
+          "images/olga5-desktop-3x.jpg 3x"
         ],
         "tablet": [
-          "/webstudio-vite-js/images/olga5-tablet-1x.jpg 1x,",
-          "/webstudio-vite-js/images/olga5-tablet-2x.jpg 2x,",
-          "/webstudio-vite-js/images/olga5-tablet-3x.jpg 3x"
+          "images/olga5-tablet-1x.jpg 1x,",
+          "images/olga5-tablet-2x.jpg 2x,",
+          "images/olga5-tablet-3x.jpg 3x"
         ],
         "mobile": [
-          "/webstudio-vite-js/images/olga5-mobile-1x.jpg 1x,",
-          "/webstudio-vite-js/images/olga5-mobile-2x.jpg 2x,",
-          "/webstudio-vite-js/images/olga5-mobile-3x.jpg 3x"
+          "images/olga5-mobile-1x.jpg 1x,",
+          "images/olga5-mobile-2x.jpg 2x,",
+          "images/olga5-mobile-3x.jpg 3x"
         ],
-        "default": "/webstudio-vite-js/images/olga5-mobile-1x.jpg"
+        "default": "images/olga5-mobile-1x.jpg"
       },
       "icons": [
-        "/webstudio-vite-js/images/symboldefs.svg#instagram",
-        "/webstudio-vite-js/images/symboldefs.svg#twitter",
-        "/webstudio-vite-js/images/symboldefs.svg#facebook",
-        "/webstudio-vite-js/images/symboldefs.svg#linkedin"
+        "images/symboldefs.svg#instagram",
+        "images/symboldefs.svg#twitter",
+        "images/symboldefs.svg#facebook",
+        "images/symboldefs.svg#linkedin"
       ],
       "id": "lQGB8ybzk0U"
     },
@@ -527,27 +527,27 @@
       "position": "Marketing-5",
       "images": {
         "desktop": [
-          "/webstudio-vite-js/images/mykola5-desktop-1x.jpg 1x,",
-          "/webstudio-vite-js/images/mykola5-desktop-2x.jpg 2x,",
-          "/webstudio-vite-js/images/mykola5-desktop-3x.jpg 3x"
+          "images/mykola5-desktop-1x.jpg 1x,",
+          "images/mykola5-desktop-2x.jpg 2x,",
+          "images/mykola5-desktop-3x.jpg 3x"
         ],
         "tablet": [
-          "/webstudio-vite-js/images/mykola5-tablet-1x.jpg 1x,",
-          "/webstudio-vite-js/images/mykola5-tablet-2x.jpg 2x,",
-          "/webstudio-vite-js/images/mykola5-tablet-3x.jpg 3x"
+          "images/mykola5-tablet-1x.jpg 1x,",
+          "images/mykola5-tablet-2x.jpg 2x,",
+          "images/mykola5-tablet-3x.jpg 3x"
         ],
         "mobile": [
-          "/webstudio-vite-js/images/mykola5-mobile-1x.jpg 1x,",
-          "/webstudio-vite-js/images/mykola5-mobile-2x.jpg 2x,",
-          "/webstudio-vite-js/images/mykola5-mobile-3x.jpg 3x"
+          "images/mykola5-mobile-1x.jpg 1x,",
+          "images/mykola5-mobile-2x.jpg 2x,",
+          "images/mykola5-mobile-3x.jpg 3x"
         ],
-        "default": "/webstudio-vite-js/images/mykola5-mobile-1x.jpg"
+        "default": "images/mykola5-mobile-1x.jpg"
       },
       "icons": [
-        "/webstudio-vite-js/images/symboldefs.svg#instagram",
-        "/webstudio-vite-js/images/symboldefs.svg#twitter",
-        "/webstudio-vite-js/images/symboldefs.svg#facebook",
-        "/webstudio-vite-js/images/symboldefs.svg#linkedin"
+        "images/symboldefs.svg#instagram",
+        "images/symboldefs.svg#twitter",
+        "images/symboldefs.svg#facebook",
+        "images/symboldefs.svg#linkedin"
       ],
       "id": "kukh1J-wAIg"
     },
@@ -556,27 +556,27 @@
       "position": "UI Designer-5",
       "images": {
         "desktop": [
-          "/webstudio-vite-js/images/muhailo5-desktop-1x.jpg 1x,",
-          "/webstudio-vite-js/images/muhailo5-desktop-2x.jpg 2x,",
-          "/webstudio-vite-js/images/muhailo5-desktop-3x.jpg 3x"
+          "images/muhailo5-desktop-1x.jpg 1x,",
+          "images/muhailo5-desktop-2x.jpg 2x,",
+          "images/muhailo5-desktop-3x.jpg 3x"
         ],
         "tablet": [
-          "/webstudio-vite-js/images/muhailo5-tablet-1x.jpg 1x,",
-          "/webstudio-vite-js/images/muhailo5-tablet-2x.jpg 2x,",
-          "/webstudio-vite-js/images/muhailo5-tablet-3x.jpg 3x"
+          "images/muhailo5-tablet-1x.jpg 1x,",
+          "images/muhailo5-tablet-2x.jpg 2x,",
+          "images/muhailo5-tablet-3x.jpg 3x"
         ],
         "mobile": [
-          "/webstudio-vite-js/images/muhailo5-mobile-1x.jpg 1x,",
-          "/webstudio-vite-js/images/muhailo5-mobile-2x.jpg 2x,",
-          "/webstudio-vite-js/images/muhailo5-mobile-3x.jpg 3x"
+          "images/muhailo5-mobile-1x.jpg 1x,",
+          "images/muhailo5-mobile-2x.jpg 2x,",
+          "images/muhailo5-mobile-3x.jpg 3x"
         ],
-        "default": "/webstudio-vite-js/images/muhailo5-mobile-1x.jpg"
+        "default": "images/muhailo5-mobile-1x.jpg"
       },
       "icons": [
-        "/webstudio-vite-js/images/symboldefs.svg#instagram",
-        "/webstudio-vite-js/images/symboldefs.svg#twitter",
-        "/webstudio-vite-js/images/symboldefs.svg#facebook",
-        "/webstudio-vite-js/images/symboldefs.svg#linkedin"
+        "images/symboldefs.svg#instagram",
+        "images/symboldefs.svg#twitter",
+        "images/symboldefs.svg#facebook",
+        "images/symboldefs.svg#linkedin"
       ],
       "id": "BbPsWblGR9U"
     }

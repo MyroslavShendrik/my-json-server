@@ -1428,7 +1428,7 @@
     }
   ],
   "starWars": {
-    "page1": {
+    "main": {
       "header": {
         "headerTitle": "Star Wars Fan Hub",
         "headerMenu": [
@@ -1448,8 +1448,8 @@
       "wars": {},
       "footer": {}
     },
-    "page2": {},
-    "page3": {}
+    "encyclopedia": {},
+    "shop": {}
   },
   "$schema": "./node_modules/json-server/schema.json"
 }

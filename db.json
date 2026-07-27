@@ -1519,11 +1519,106 @@
         "copyright": "© 2026 Star Wars Fan Project"
       }
     },
-    "encyclopedia": {
+
+ "encyclopedia": {
+  "eras": [{
+     "title": "Стара Республіка",
+          "image": "/images/old-republic.webp",
+          "imageAlt": "Old Republic",
+          "description": "Епоха тисячолітніх війн..."
+        },
+        {
+          "title": "Війни клонів",
+          "image": "/images/clone-wars.jpg",
+          "imageAlt": "Clone Wars",
+          "description": "Галактичний конфлікт..."
+        },
+        {
+          "title": "Час Імперії",
+          "image": "/images/galactic-empire.jpg",
+          "imageAlt": "Galactic Empire",
+          "description": "Правління Палпатіна..."
+        },
+        {
+          "title": "Нова Республіка",
+          "image": "/images/new-republic.jpg",
+          "imageAlt": "New Republic",
+          "description": "Період відновлення..."
+        }
+      ],
+
+      "factions": [
+        {
+          "title": "Орден Джедаїв",
+          "image": "./images/Jedi-Logo.png",
+          "imageAlt": "Jedi Order",
+          "description": "Хранителі Світлої сторони Сили..."
+        },
+        {
+          "title": "Орден Сітхів",
+          "image": "./images/sith-logo.png",
+          "imageAlt": "Sith Order",
+          "description": "Темні володарі Сили..."
+        },
+        {
+          "title": "КНС (Конфедерація Незалежних Систем)",
+          "image": "./images/cis-logo.webp",
+          "imageAlt": "CIS",
+          "description": "Альянс планет..."
+        },
+        {
+          "title": "Повстанський Альянс",
+          "image": "./images/rebel-logo.webp",
+          "imageAlt": "Rebel Alliance",
+          "description": "Рух опору..."
+        },
+        {
+          "title": "Перший Орден",
+          "image": "./images/first-order-logo.webp",
+          "imageAlt": "First Order",
+          "description": "Спадкоємець Імперії..."
+        }
+      ],
+
+      "lightsaberForms": [
+        {
+          "name": "Form I — Shii-Cho",
+          "key": "shii-cho"
+        },
+        {
+          "name": "Form II — Makashi",
+          "key": "makashi"
+        },
+        {
+          "name": "Form III — Soresu",
+          "key": "soresu"
+        },
+        {
+          "name": "Form IV — Ataru",
+          "key": "ataru"
+        },
+        {
+          "name": "Form V — Djem So",
+          "key": "djem-so"
+        },
+        {
+          "name": "Form VI — Niman",
+          "key": "niman"
+        },
+        {
+          "name": "Form VII — Juyo / Vaapad",
+          "key": "juyo"
+        }
+      ],
+
       "planets": [
         {
           "id": 1,
           "name": "Tatooine"
+        },
+        {
+          "id": 9,
+          "name": "Coruscant"
         },
         {
           "id": 8,
@@ -1545,9 +1640,83 @@
           "id": 14,
           "name": "Kashyyyk"
         }
+      ],
+
+      "characterGroups": [
+        {
+          "title": "Орден Джедаїв",
+          "class": "jedi",
+          "characters": [
+            "Luke Skywalker",
+            "Obi-Wan Kenobi",
+            "Yoda",
+            "Mace Windu",
+            "Qui-Gon Jinn",
+            "Ahsoka Tano"
+          ]
+        },
+        {
+          "title": "Сітхи",
+          "class": "sith",
+          "characters": [
+            "Darth Vader",
+            "Darth Sidious",
+            "Darth Maul",
+            "Count Dooku",
+            "Kylo Ren"
+          ]
+        },
+        {
+          "title": "Повстанці",
+          "class": "rebels",
+          "characters": [
+            "Leia Organa",
+            "Han Solo",
+            "Cassian Andor",
+            "Mon Mothma",
+            "Jyn Erso"
+          ]
+        },
+        {
+          "title": "Галактична Імперія",
+          "class": "empire",
+          "characters": [
+            "Grand Moff Tarkin",
+            "Admiral Thrawn",
+            "Imperial Inquisitors"
+          ]
+        }
+      ],
+
+      "movies": [
+        {
+          "episode": "Episode I",
+          "title": "The Phantom Menace",
+          "description": "Знайомство з молодим Енакіном і повернення Сітхів."
+        },
+        {
+          "episode": "Episode II",
+          "title": "Attack of the Clones",
+          "description": "Початок Війн клонів та занепад Республіки."
+        },
+        {
+          "episode": "Episode III",
+          "title": "Revenge of the Sith",
+          "description": "Падіння Джедаїв і народження Дарта Вейдера."
+        },
+        { "episode": "Episode IV",
+          "title": "A New Hope",
+          "description": "Люк вступає в боротьбу проти Імперії."
+        },
+        { "episode": "Episode V",
+          "title": "The Empire Strikes Back",
+          "description": "Імперія завдає нищівного удару Повстанцям."
+        },
+        {"episode": "Episode VI",
+          "title": "Return of the Jedi",
+          "description": "Падіння Імператора та спасіння Енакіна."
+        }
       ]
-    },
-    "shop": {}
-  },
-  "$schema": "./node_modules/json-server/schema.json"
+    }
+  }
 }

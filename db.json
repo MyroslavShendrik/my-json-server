@@ -1611,37 +1611,119 @@
         }
       ],
 
-      "planets": [
-        {
-          "id": 1,
-          "name": "Tatooine"
-        },
-        {
-          "id": 9,
-          "name": "Coruscant"
-        },
-        {
-          "id": 8,
-          "name": "Naboo"
-        },
-        {
-          "id": 13,
-          "name": "Mustafar"
-        },
-        {
-          "id": 4,
-          "name": "Hoth"
-        },
-        {
-          "id": 7,
-          "name": "Endor"
-        },
-        {
-          "id": 14,
-          "name": "Kashyyyk"
-        }
-      ],
+"planets": [
+  {
+    "id": 1,
+    "name": "Tatooine",
+    "climate": "Arid",
+    "terrain": "Desert",
+    "gravity": "1 standard",
+    "population": "200000",
+    "description": "Пустельна планета, де народився Люк Скайвокер."
+  },
+  {
+    "id": 2,
+    "name": "Coruscant",
+    "climate": "Temperate",
+    "terrain": "City",
+    "gravity": "1 standard",
+    "population": "1000000000000",
+    "description": "Столиця Галактичної Республіки."
+  },
+  {
+    "id": 3,
+    "name": "Naboo",
+    "climate": "Temperate",
+    "terrain": "Plains",
+    "gravity": "1 standard",
+    "population": "4500000000",
+    "description": "Батьківщина Падме Амідали."
+  },
+  {
+    "id": 4,
+    "name": "Mustafar",
+    "climate": "Hot",
+    "terrain": "Volcanic",
+    "gravity": "1 standard",
+    "population": "20000",
+    "description": "Вулканічний світ Дарта Вейдера."
+  },
+  {
+    "id": 5,
+    "name": "Hoth",
+    "climate": "Frozen",
+    "terrain": "Ice",
+    "gravity": "1.1 standard",
+    "population": "0",
+    "description": "Крижана база Повстанців."
+  },
+  {
+    "id": 6,
+    "name": "Endor",
+    "climate": "Temperate",
+    "terrain": "Forest",
+    "gravity": "0.85 standard",
+    "population": "30000000",
+    "description": "Домівка евоків."
+  },
+  {
+    "id": 7,
+    "name": "Kashyyyk",
+    "climate": "Tropical",
+    "terrain": "Jungle",
+    "gravity": "1 standard",
+    "population": "45000000",
+    "description": "Планета вукі."
+  }
+],
 
+"availablePlanets": [
+  {
+    "id": 8,
+    "name": "Kamino",
+    "climate": "Temperate",
+    "terrain": "Ocean",
+    "gravity": "1 standard",
+    "population": "1000000000",
+    "description": "Планета клонів."
+  },
+  {
+    "id": 9,
+    "name": "Geonosis",
+    "climate": "Arid",
+    "terrain": "Rock",
+    "gravity": "0.9 standard",
+    "population": "100000000000",
+    "description": "Батьківщина геонозійців."
+  },
+  {
+    "id": 10,
+    "name": "Dagobah",
+    "climate": "Murky",
+    "terrain": "Swamp",
+    "gravity": "N/A",
+    "population": "0",
+    "description": "Планета, де Люк навчався у Йоди."
+  },
+  {
+    "id": 11,
+    "name": "Bespin",
+    "climate": "Temperate",
+    "terrain": "Gas Giant",
+    "gravity": "1.5 standard",
+    "population": "6000000",
+    "description": "Хмарне місто Ландо."
+  },
+  {
+    "id": 12,
+    "name": "Corellia",
+    "climate": "Temperate",
+    "terrain": "Urban",
+    "gravity": "1 standard",
+    "population": "3000000000",
+    "description": "Батьківщина Хана Соло."
+  }
+],
       "characterGroups": [
         {
           "title": "Орден Джедаїв",

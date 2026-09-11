@@ -1702,7 +1702,8 @@
     "terrain": "Rock",
     "gravity": "0.9 standard",
     "population": "100000000000",
-    "description": "Батьківщина геонозійців."
+    "description": "Батьківщина геонозійців.",
+   "image": "/images/planets/geonosis.jpg"
   },
   {
     "id": 10,
@@ -1721,7 +1722,8 @@
     "terrain": "Gas Giant",
     "gravity": "1.5 standard",
     "population": "6000000",
-    "description": "Хмарне місто Ландо."
+    "description": "Хмарне місто Ландо.",
+    "image": "/images/planets/bespin.jpg"
   },
   {
     "id": 12,
@@ -1730,7 +1732,8 @@
     "terrain": "Urban",
     "gravity": "1 standard",
     "population": "3000000000",
-    "description": "Батьківщина Хана Соло."
+    "description": "Батьківщина Хана Соло.",
+    "image": "/images/planets/corellia.jpg"
   }
 ],
       "characterGroups": [

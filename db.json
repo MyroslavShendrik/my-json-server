@@ -1519,10 +1519,10 @@
         "copyright": "© 2026 Star Wars Fan Project"
       }
     },
-
- "encyclopedia": {
-  "eras": [{
-     "title": "Стара Республіка",
+    "encyclopedia": {
+      "eras": [
+        {
+          "title": "Стара Республіка",
           "image": "/images/old-republic.webp",
           "imageAlt": "Old Republic",
           "description": "Епоха тисячолітніх війн..."
@@ -1546,7 +1546,6 @@
           "description": "Період відновлення..."
         }
       ],
-
       "factions": [
         {
           "title": "Орден Джедаїв",
@@ -1579,7 +1578,6 @@
           "description": "Спадкоємець Імперії..."
         }
       ],
-
       "lightsaberForms": [
         {
           "name": "Form I — Shii-Cho",
@@ -1610,132 +1608,130 @@
           "key": "juyo"
         }
       ],
-
-"planets": [
-  {
-    "id": 1,
-    "name": "Tatooine",
-    "climate": "Arid",
-    "terrain": "Desert",
-    "gravity": "1 standard",
-    "population": "200000",
-    "description": "Пустельна планета, де народився Люк Скайвокер.",
-    "image": "/images/planets/tatooine.jpg"
-  },
-  {
-    "id": 2,
-    "name": "Coruscant",
-    "climate": "Temperate",
-    "terrain": "City",
-    "gravity": "1 standard",
-    "population": "1000000000000",
-    "description": "Столиця Галактичної Республіки.",
-    "image": "/images/planets/coruscant.jpg"
-  },
-  {
-    "id": 3,
-    "name": "Naboo",
-    "climate": "Temperate",
-    "terrain": "Plains",
-    "gravity": "1 standard",
-    "population": "4500000000",
-    "description": "Батьківщина Падме Амідали.",
-    "image": "/images/planets/naboo.jpg"
-  },
-  {
-    "id": 4,
-    "name": "Mustafar",
-    "climate": "Hot",
-    "terrain": "Volcanic",
-    "gravity": "1 standard",
-    "population": "20000",
-    "description": "Вулканічний світ Дарта Вейдера.",
-    "image": "/images/planets/mustafar.jpg"
-  },
-  {
-    "id": 5,
-    "name": "Hoth",
-    "climate": "Frozen",
-    "terrain": "Ice",
-    "gravity": "1.1 standard",
-    "population": "0",
-    "description": "Крижана база Повстанців.",
-    "image": "/images/planets/hoth.jpg"
-  },
-  {
-    "id": 6,
-    "name": "Endor",
-    "climate": "Temperate",
-    "terrain": "Forest",
-    "gravity": "0.85 standard",
-    "population": "30000000",
-    "description": "Домівка евоків.",
-    "image": "/images/planets/endor.jpg"
-  },
-  {
-    "id": 7,
-    "name": "Kashyyyk",
-    "climate": "Tropical",
-    "terrain": "Jungle",
-    "gravity": "1 standard",
-    "population": "45000000",
-    "description": "Планета вукі.",
-    "image": "/images/planets/kashyyyk.jpg"
-  }
-],
-
-"availablePlanets": [
-  {
-    "id": 8,
-    "name": "Kamino",
-    "climate": "Temperate",
-    "terrain": "Ocean",
-    "gravity": "1 standard",
-    "population": "1000000000",
-    "description": "Планета клонів.",
-  "image": "/images/planets/kamino.jpg"
-  },
-  {
-    "id": 9,
-    "name": "Geonosis",
-    "climate": "Arid",
-    "terrain": "Rock",
-    "gravity": "0.9 standard",
-    "population": "100000000000",
-    "description": "Батьківщина геонозійців.",
-   "image": "/images/planets/geonosis.jpg"
-  },
-  {
-    "id": 10,
-    "name": "Dagobah",
-    "climate": "Murky",
-    "terrain": "Swamp",
-    "gravity": "N/A",
-    "population": "0",
-    "description": "Планета, де Люк навчався у Йоди.",
-   "image": "/images/planets/dagobah.jpg"
-  },
-  {
-    "id": 11,
-    "name": "Bespin",
-    "climate": "Temperate",
-    "terrain": "Gas Giant",
-    "gravity": "1.5 standard",
-    "population": "6000000",
-    "description": "Хмарне місто Ландо.",
-    "image": "/images/planets/bespin.jpg"
-  },
-  {
-    "id": 12,
-    "name": "Corellia",
-    "climate": "Temperate",
-    "terrain": "Urban",
-    "gravity": "1 standard",
-    "population": "3000000000",
-    "description": "Батьківщина Хана Соло.",
-    "image": "/images/planets/corellia.jpg"
-  }
-],
+      "planets": [
+        {
+          "id": 11,
+          "name": "Bespin",
+          "climate": "Temperate",
+          "terrain": "Gas Giant",
+          "gravity": "1.5 standard",
+          "population": "6000000",
+          "description": "Хмарне місто Ландо.",
+          "image": "images/planets/bespin.jpg"
+        },
+        {
+          "id": 2,
+          "name": "Coruscant",
+          "climate": "Temperate",
+          "terrain": "City",
+          "gravity": "1 standard",
+          "population": "1000000000000",
+          "description": "Столиця Галактичної Республіки.",
+          "image": "images/planets/coruscant.jpg"
+        },
+        {
+          "id": 10,
+          "name": "Dagobah",
+          "climate": "Murky",
+          "terrain": "Swamp",
+          "gravity": "N/A",
+          "population": "0",
+          "description": "Планета, де Люк навчався у Йоди.",
+          "image": "images/planets/dagobah.jpg"
+        },
+        {
+          "id": 6,
+          "name": "Endor",
+          "climate": "Temperate",
+          "terrain": "Forest",
+          "gravity": "0.85 standard",
+          "population": "30000000",
+          "description": "Домівка евоків.",
+          "image": "images/planets/endor.jpg"
+        },
+        {
+          "id": 5,
+          "name": "Hoth",
+          "climate": "Frozen",
+          "terrain": "Ice",
+          "gravity": "1.1 standard",
+          "population": "0",
+          "description": "Крижана база Повстанців.",
+          "image": "images/planets/hoth.jpg"
+        },
+        {
+          "id": 7,
+          "name": "Kashyyyk",
+          "climate": "Tropical",
+          "terrain": "Jungle",
+          "gravity": "1 standard",
+          "population": "45000000",
+          "description": "Планета вукі.",
+          "image": "images/planets/kashyyyk.jpg"
+        },
+        {
+          "id": 4,
+          "name": "Mustafar",
+          "climate": "Hot",
+          "terrain": "Volcanic",
+          "gravity": "1 standard",
+          "population": "20000",
+          "description": "Вулканічний світ Дарта Вейдера.",
+          "image": "images/planets/mustafar.jpg"
+        },
+        {
+          "id": 3,
+          "name": "Naboo",
+          "climate": "Temperate",
+          "terrain": "Plains",
+          "gravity": "1 standard",
+          "population": "4500000000",
+          "description": "Батьківщина Падме Амідали.",
+          "image": "images/planets/naboo.jpg"
+        },
+        {
+          "id": 1,
+          "name": "Tatooine",
+          "climate": "Arid",
+          "terrain": "Desert",
+          "gravity": "1 standard",
+          "population": "200000",
+          "description": "Пустельна планета, де народився Люк Скайвокер.",
+          "image": "images/planets/tatooine.jpg"
+        }
+      ],
+      "availablePlanets": [
+        {
+          "id": 8,
+          "name": "Kamino",
+          "climate": "Temperate",
+          "terrain": "Ocean",
+          "gravity": "1 standard",
+          "population": "1000000000",
+          "description": "Планета клонів.",
+          "image": "images/planets/kamino.jpg"
+        },
+        {
+          "id": 9,
+          "name": "Geonosis",
+          "climate": "Arid",
+          "terrain": "Rock",
+          "gravity": "0.9 standard",
+          "population": "100000000000",
+          "description": "Батьківщина геонозійців.",
+          "image": "images/planets/geonosis.jpg"
+        },
+        {
+          "id": 12,
+          "name": "Corellia",
+          "climate": "Temperate",
+          "terrain": "Urban",
+          "gravity": "1 standard",
+          "population": "3000000000",
+          "description": "Батьківщина Хана Соло.",
+          "image": "images/planets/corellia.jpg"
+        }
+      ],
       "characterGroups": [
         {
           "title": "Орден Джедаїв",
@@ -1781,7 +1777,6 @@
           ]
         }
       ],
-
       "movies": [
         {
           "episode": "Episode I",
@@ -1798,19 +1793,23 @@
           "title": "Revenge of the Sith",
           "description": "Падіння Джедаїв і народження Дарта Вейдера."
         },
-        { "episode": "Episode IV",
+        {
+          "episode": "Episode IV",
           "title": "A New Hope",
           "description": "Люк вступає в боротьбу проти Імперії."
         },
-        { "episode": "Episode V",
+        {
+          "episode": "Episode V",
           "title": "The Empire Strikes Back",
           "description": "Імперія завдає нищівного удару Повстанцям."
         },
-        {"episode": "Episode VI",
+        {
+          "episode": "Episode VI",
           "title": "Return of the Jedi",
           "description": "Падіння Імператора та спасіння Енакіна."
         }
       ]
     }
-  }
+  },
+  "$schema": "./node_modules/json-server/schema.json"
 }

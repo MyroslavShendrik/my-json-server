@@ -1472,7 +1472,7 @@
       },
       "about": {
         "title": "Про сайт",
-        "image": "/images/about-sw.jpg",
+        "image": "images/about-sw.jpg",
         "imageAlt": "Star Wars intro",
         "description": [
           "Star Wars Fan Hub — це фанатський освітній сайт...",
@@ -1481,7 +1481,7 @@
       },
       "universe": {
         "title": "Всесвіт Star Wars",
-        "image": "/images/univers.jpg",
+        "image": "images/univers.jpg",
         "imageAlt": "Galaxy",
         "description": [
           "  Події Star Wars відбуваються у далекій-далекій галактиці, населеній тисячами планет,різними расами та цивілізаціями, що розвивалися протягом тисячоліть.",
@@ -1490,7 +1490,7 @@
       },
       "force": {
         "title": "Сила",
-        "image": "/images/force.jpg",
+        "image": "images/force.jpg",
         "imageAlt": "The Force",
         "description": [
           "  Сила — це універсальне енергетичне поле, яке народжується з усього живого та зв’язує між собою всі істоти, планети й події в Галактиці. Вона не є ні доброю, ні злою сама по собі, але реагує на волю, емоції та наміри тих, хто здатен її відчувати й контролювати.",
@@ -1499,7 +1499,7 @@
       },
       "jedi": {
         "title": "Джедаї та Сітхи",
-        "image": "/images/sith-jedi.jpg",
+        "image": "images/sith-jedi.jpg",
         "imageAlt": "Jedi vs Sith",
         "description": [
           "  Джедаї — древній орден воїнів і філософів, покликаних зберігати мир і баланс у Галактиці. Вони слідують Світлій стороні Сили, навчаються самоконтролю, мудрості та самопожертви, використовуючи Силу виключно для захисту життя й підтримання гармонії.",
@@ -1508,7 +1508,7 @@
       },
       "wars": {
         "title": "Галактичні війни",
-        "image": "/images/wars.jpeg",
+        "image": "images/wars.jpeg",
         "imageAlt": "Galactic war",
         "description": [
           "  Всесвіт Star Wars переповнений грандіозними війнами та міжгалактичними конфліктами, де доля цілих планет і цивілізацій вирішується на полі бою.",
@@ -1523,25 +1523,25 @@
       "eras": [
         {
           "title": "Стара Республіка",
-          "image": "/images/old-republic.webp",
+          "image": "images/old-republic.webp",
           "imageAlt": "Old Republic",
           "description": "Епоха тисячолітніх війн..."
         },
         {
           "title": "Війни клонів",
-          "image": "/images/clone-wars.jpg",
+          "image": "images/clone-wars.jpg",
           "imageAlt": "Clone Wars",
           "description": "Галактичний конфлікт..."
         },
         {
           "title": "Час Імперії",
-          "image": "/images/galactic-empire.jpg",
+          "image": "images/galactic-empire.jpg",
           "imageAlt": "Galactic Empire",
           "description": "Правління Палпатіна..."
         },
         {
           "title": "Нова Республіка",
-          "image": "/images/new-republic.jpg",
+          "image": "images/new-republic.jpg",
           "imageAlt": "New Republic",
           "description": "Період відновлення..."
         }
